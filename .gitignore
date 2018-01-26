@@ -9,5 +9,5 @@ build
 npm-debug.log
 logs
 *.log
-.env
 .env.production
+.idea
